@@ -1,4 +1,4 @@
-# ui# Gemini Proxy Worker
+# Gemini Proxy Worker
 
 这是一个利用Cloudflare Workers作为中转的Gemini代理。
 
